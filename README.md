@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Indraj
 
-<!--
-**1ndraj/1ndraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Cyber Security Researcher | Penetration Tester | Ethical Hacker
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔐 Passionate about Cyber Security  & Ethical Hacking  
+- 🤖 Interested in AI for Security & Automation  
+- 🛠️ Building vulnerable labs & practicing penetration testing  
+- 🎯 Goal: Become a skilled Security Analyst / Penetration Tester  
+
+---
+
+## ⚡ Skills & Tools 
+- 🛡️ Security: Network Security, Web Exploitation, Privilege Escalation  
+- 🧰 Tools: Kali Linux, Metasploit, Burp Suite, Nmap  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: indrajsooraj17@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/indraj-n-324751229/
+
+---
+
+## ⚡ Fun Fact
+💡 I break things to learn how to secure them 😎  
